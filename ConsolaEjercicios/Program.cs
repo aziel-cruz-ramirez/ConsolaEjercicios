@@ -93,9 +93,8 @@ class Program
         Console.WriteLine("Saliendo de la aplicación. ¡Hasta luego!");
     }
 
-    /// <summary>
-    /// Muestra el menú de ejercicios en la consola.
-    /// </summary>
+    //el menú de ejercicios en la consola.
+   
     static void MostrarMenu()
     {
         Console.Clear();
